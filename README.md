@@ -1,0 +1,1 @@
+# Analysing-an-open-cohort-stepped-wedge-clustered-trial-with-repeated-individual-binary-outcomes
